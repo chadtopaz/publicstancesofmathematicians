@@ -1,0 +1,790 @@
+Scott Aaronson, University of Texas at Austin
+Vyacheslav M. Abramov, retired
+Dan Abramovich, Brown University
+Colin Adams, Williams College
+Alejandro Adem, University of British Columbia
+Karim Adiprasito, U Copenhagen and Hebrew U Jerusalem
+Siddharth Agarwal, KU Leuven
+Adebisi Agboola, UC Santa Barbara
+Arseniy Akopyan, IST Austria
+Roger L. Albin, University of Michigan
+Ian Alevy, University of Rochester
+Maria Angeles Alfonseca Cubero, North Dakota State University
+Kenneth S. Alexander, U. Of Southern California
+Bruce Allardice, Professor of History
+Daniel Allcock, U.T. Austin
+M. D. Allen, University of Wisconsin-Fox Valley
+Ryan Alweiss, Princeton University
+Ekaterina Amerik, Université Paris-Sud
+Vrege Amirkhanian, ATU retired
+David Anderson, Ohio State University
+George E. Andrews, Pennsylvania State University
+Todd Arbogast, University of Texas at Austin
+Scott Armstrong, Courant Institute, New York University
+Richard Arratia, University of Southern California
+James Arthur, University Professor, University of Toronto, Past President of American Mathematical Society, 2005-2007
+Alan Astro, Trinity University
+David Auckly, Professor Kansas State University, Director Indigenous Math Circle Communities
+Rubén A. Martínez Avendaño, Instituto Tecnológico Autónomo de México
+Pedro Fortuny Ayuso, University of Oviedo, Spain
+Blanca Ayuso de Dios, Universita Milano-Bicocca
+Eric Babson, UC Davis
+Pavel Bacherikov, University of California at Berkeley
+David Bachman, Pitzer College
+Hyungryul Baik, KAIST
+Matt Bainbridge, Indiana University
+Viviane Baladi, CNRS, Paris
+Scott Baldridge, Louisiana State University
+John Baldwin, Boston College
+Tatiana Bandman, Bar-Ilan University, retired
+Jessica Banks, University of Liverpool
+Anton Baranov, Saint Petersburg State University
+Rodica Barbu, Ohio State University
+Dror Bar-Natan, University of Toronto
+Alexander Barvinok, University of Michigan
+Paul Baumann, Professor of Microbiology (Emeritus), UC Davis
+John Baxter, Professor Emeritus, University of Minnesota
+Yuri Bazlov, University of Manchester, UK
+William Beckner, The University of Texas at Austin
+Richard Bedient, Hamilton College
+Paul R. Beezley, Jacksonville State University
+Alexander Beilinson, University of Chicago
+Jennifer Beineke, Western New England University
+Ioan Bejenaru, University of California San Diego
+Taylor Belcher, SC Governor’s School For Science and Mathematics
+Gregory Benford, UC Irvine
+Arkady Berenstein, University of Oregon
+Julien Berestycki, University of Oxford
+Professor Alexander Berkovich, Math Dept. UF
+John Berman, UT Austin
+Mladen Bestvina, University of Utah
+Joseph A. Biello, University of California, Davis
+Stephen Bigelow, UCSB
+Erica Billingsley, Western Kentucky University
+Yuri Bilu, University of Bordeaux
+Ilia Binder, University of Toronto
+Joan Birman, Professor Emeritus, Barnard College, Columbia University
+Michael Biro, University of Connecticut
+Julie Blackwood, Williams College
+Philip Blanco, Grossmont College
+Ivan Blank, Kansas State University
+Kevin Blankinship, Brigham Young University
+Robin Blankenship, Morehead State University
+Florin Boca, University of Illinois at Urbana-Champaign
+Eric Bondi, UCDavis alumni
+Richard Borcherds, U.C. Berkeley
+Nigel Boston, University of Wisconsin
+Antoine Bourget,
+Lewis Bowen, University of Texas at Austin
+Philip L. Bowers, Florida State University
+Latham Boyle, Perimeter Institute
+David Bradshaw, University of Kentucky
+Jason Bramburger, University of Victoria
+Michael Bramley, student member of the Royal Statistical Society
+Alex Branton,
+Jonathan Breuer, The Hebrew University of Jerusalem
+Martin R Bridson, University of Oxford
+Andrea Brini, University of Sheffield
+Mark Brittenham, University of Nebraska
+John T. Broom, Nowich University
+Bill Browder, Professor Emeritus, Princeton University
+Frank Brown, UCSB
+Rachel Fulton Brown, The University of Chicago (History)
+Eric Brussel, California Polytechnic State University
+Leonard Bruton, FRSC, FIEEE, P.Eng., Emeritus Professor, University of Calgary, Canada
+Robert Bryant, Duke University
+Daoud Bshouty, Dept of Maths,Technion, Israel
+Robert B. Burckel, emeritus professor, Kansas State University
+Alex Buchel, Professor, Western University
+Leonid Bunimovich, Georgia Tech
+Efstathia Bura, TU Wien
+Robert Busch,
+Adam Buskirk, North Dakota State University
+Dani Byrd, University of Southern California
+Larry Cahill, Professor, UC Irvine
+Jack Calcut, Oberlin College
+Andrei Caldararu, Professor of Mathematics, University of Wisconsin-Madison
+Justin Campbell, Caltech
+John Carlsson, USC
+Gunnar Carlsson, Stanford University
+Erik Carlsson, U.C. Davis
+Matt Carter, Williams College
+Bill Casselman, UBC
+Eduardo Cattani, University of Massachusetts Amherst
+Gustavo Emilio Cepparo, The University of Texas at Austin
+Abhijit Champanerkar, CUNY
+Vyjayanthi Chari, University of California, Riverside
+R. Douglas Chatham, Morehead State University
+Jeff Cheeger, Courant institute
+Ivan Cheltsov, University of Edinburgh
+Thomas Chen, UT Austin
+Vladimir Chernov, Dartmouth College
+Alexey Cheskidov, University of Illinois at Chicago
+Dobrinka Chiekova, The College of New Jersey
+Laura Chihara, Carleton College
+Alexandre Chorin, Mathematics, UC Berkeley
+Vasileios Chousionis, University of Connecticut
+Katie C Christensen, Furman University
+David Cimasoni, University of Geneva
+Mirela Ciperiani, University of Texas at Austin
+Darin Clark, UWO
+Stephen L. Clark, Missouri S&T
+Justin Clarke, Assistant Professor of Philosophy and Ethics, Ottawa University
+Sally Cockburn, Hamilton College
+Ionut Ciocan-Fontanine, Mathematics, University of Minnesota
+Daniel C. Cohen, Louisiana State University
+Jonathan Cohen, Emeritus, DePaul University
+Pierre Colmez, CNRS, France
+Jim Conant, AoPS Academy
+James Conway, UC Berkeley
+Daryl Cooper, UCSB
+Octav Cornea, University of Montreal
+Carl C Cowen, Prof. of Mathematics, IUPUI
+David A. Cox, emeritus, Amherst College
+Phebe Cramer, Williams College
+Michael Cranston, University of California, Irvine
+Paul F. Crawford, California University of Pennsylvania
+Thomas Crawford, Swarthmore College
+Danny Crytser, St Lawrence University
+Nicholas Castillo, PhD Student OSU Mathematics Department
+Milica Cudina, The University of Texas at Austin
+Marc Culler, University of Illinois at Chicago
+John Cullinan, Bard College
+Michael Cwikel, Professor Emeritus, Technion - Israel Institute of Technology
+Marius Dadarlat, Purdue University
+John P. D'Angelo, University of Illinois
+Mimi Dai, University of Illinois at Chicago
+Jeffrey Danciger, UT Austin
+Donatella Danielli, Purdue University
+Panagiota Daskalopoulos, Columbia University
+Donald M. Davis, Lehigh University
+Chandler Davis, University of Toronto
+Michael Davis, Ohio State University
+Rafael de la Llave, Georgia Inst. of Technology
+Jesus A. De Loera, UC Davis
+Richard De Veaux, Williams College
+Percy Deift, NYU
+Charles Delman, Department of Mathematics and Computer Science, Eastern Illinois University
+Andrzej Derdzinski, The Ohio State University
+Satyan Devadoss, Fletcher Jones Professor of Applied Mathematics, University of San Diego
+Robert L. Devaney, Boston University
+Lev Deych, Physics Department, Queens College of CUNY
+Moshe Dinowitz, CUNY Graduate Center
+Anna Dobritsa, OSU
+Robert G. Donnelly, Murray State University
+David R Dorman, Middlebury College
+Vladimir Dotsenko, Professor, University of Strasbourg
+Edward R. Dougherty, Texas A&M University
+Jon Doyle, NCSU
+Peter Doyle,
+Bogdan Doytchinov, Elizabethtown College
+John Drew, Williams Liberty
+Vladimir Drinfeld, University of Chicago
+William Dunbar, Bard College at Simon's Rock
+David Duncan, James Madison University
+Molly Dunkum, Western Kentucky University
+Susan Dunn, Williams College
+Gerald Dworkin, Distinguished Professor of Philosophy emeritus, UC Davis
+Andrew Dykstra, Hamilton College
+Anton Dzhamay, University of Northern Colorado
+Joan Edwards, Professor of Biology, Williams College
+Richard Ehrenborg, University of Kentucky
+Dennis Eichhorn, UC Irvine
+William Eichinger, University of Iowa
+David Eisenbud, U.C. Berkeley
+Mohamed Elhamdadi, USF
+Yakov Eliashberg, Stanford University
+Michael Entov, Technion
+Inna Entova, Ben Gurion University
+Adam Epstein, University of Warwick
+Gayla Epure,
+Burak Erdogan, University of Illinois
+Alexandre Eremenko, professor, Purdue University
+Claus Ernst, Western Kentucky University
+Alex Eskin, University of Chicago
+Pavel Etingof, MIT
+Jon Eugster, University of Edinburgh
+Lawrence C Evans, UC Berkeley
+David E Evans, Cardiff University
+Michael Falk, Northern Arizona University
+Sohail Farhangi, The Ohio State University
+Emmanuel Farjoun, Hebrew University Jerusalem
+David Farris, National Centre for Biological Science, Bangalore
+Misha Feigin, University of Glasgow
+Ohad Noy Feldheim, the Hebrew University of Jersualem, Israel
+Kasun Fernando, University of Toronto
+Yuval Filmus, Technion
+Stas Filshtinskiy, Bachelor of Applied Mathematics, Certified Information Security System Professional
+Gregory Fink, Michigan State University
+Michael Finkelberg, Department of Mathematics, National Research University Higher School of Economics, Moscow, Russia
+Vladimir Finkelshtein, University of Göttingen
+Peter Finley,
+Ronald Fintushel, Michigan State University (Emeritus)
+Patrick Fitzsimmons, UC San Diego
+Yuval Flicker, The Ohio State University
+Joel Foisy, SUNY Potsdam
+Martin Frankland, University of Regina
+Robert Franzosa, Department of Mathematics and Statistics, University of Maine
+Michael Freedman, Microsoft and UCSB math
+Daniel Freeman, St Louis University
+David Freund, Harvard University
+Eric M. Friedlander, University of Southern California
+Susan Friedlander, USC
+Charles Frohman, University of Iowa
+Dmitry Fuchs, professor emeritus at University of California, Davis
+Elena Fuchs, University of California, Davis
+Lenny Fukshansky, Claremont McKenna College
+Evgenia Fukshansky, former AMS member
+David Gabai, Princeton University
+Thomas Garrity, Williams College
+Pawel Gburzynski, University of Alberta
+William Geller, Indiana University-Purdue University Indianapolis
+Edward George, University of Pennsylvania
+Fritz Gesztesy, Baylor University
+Ezra Getzler, Northwestern University
+Saeed Ghahramani, Western New England University
+Robert Ghrist, University of Pennsylvania
+Patrick Gilmer, Louisiana State University
+Harry J. Gindi, University of Edinburgh
+Victor Ginzburg, University of Chicago
+Viktor Ginzburg, University of California, Santa Cruz
+Eleftherios Gkioulekas, The University of Texas Rio Grande Valley
+James Glimm, Department of Applied Mathematics and Statistics, Stony Brook University
+Heide Gluesing-Luerssen, University of Kentucky
+Mark S. Gockenbach, Michigan Technological University
+Andrey Gogolev, Ohio State University
+Leo Goldmakher, Williams College
+William Goldman, Professor, University of Maryland
+Larry Goldstein, University of Southern California
+Robert Gompf, The University of Texas at Austin
+Alexander Goncharov, Yale University
+Daniel Gonzalez, Florida State University & the University of Notre Dame
+Chaim Goodman-Strauss, University of Arkansas
+Carolyn Gordon, Dartmouth College
+Anton Gorodetski, University of California, Irvine
+Claudio Gorodski, University of São Paulo
+Prof. Dmitry Gourevitch, Weizmann Institute of Science
+Fernando Q. Gouvêa, Colby College
+Jonathan Graehl, 
+Noah Graham, Middlebury College Department of Physics
+Christopher Grant, Brigham Young University
+Andrew Granville, U of Montreal and University College London
+Josh Greene, Boston College
+Jacob Greenstein, UC Riverside
+J. Elisenda Grigsby, Boston College
+Darij Grinberg, Drexel University
+Misha Gromov, Courant Institute, NYU and IHES. France
+Niels Grønbech-Jensen, UC Davis
+Benedict H Gross, UCSD
+Ilya Gruzberg, Professor, Ohio State University
+Bo Guan, Ohio State University
+Pavel Guerzhoy, University of Hawaii at Manoa
+David Gürçay-Morris, Williams College
+Ori Gurel-Gurevich, The Hebrew University of Jerusalem, Israel
+Max Gurevich, Technion
+Robert Guy, UC Davis
+Ewain Gwynne, University of Cambridge
+George Hagedorn, Virginia Tech
+Emily Hamilton, California Polytechnic State University
+David Hansen, MPIM Bonn
+Evans Harrell, Georgia Institute of Technology
+Shelly Harvey, Rice University
+Deirdre Haskell, McMaster University
+Dominique Haughton, Bentley University
+Thomas F Hayes, 
+David Heddle, Christopher Newport University
+Raymond Heitmann, University of Texas at Austin
+Dennis A. Hejhal, University of Minnesota
+Harald Helfgott, University of Goettingen
+David Hemmer, Michigan Technological University
+David R. Henderson, Emeritus Professor of Economics, Naval Postgraduate School
+James Henle, Smith College
+Michael Henle, Emeritus, Oberlin College
+Samuel Herman, New College of Florida
+Hamid Hezari, UC Irvine
+Jairo Iván Peña Hidalgo, FSU Student
+Vladimir Hinich, University of Haifa
+Eriko Hironaka,
+David Hoffman,
+Jan Holly, Colby College
+Andrew Holt, Florida State College at Jacksonville
+Ko Honda, UCLA
+Anna-Lena Horlemann, St. Gallen, Switzerland
+Joey Horn,
+Hugh Howards, Wake Forest University
+Joshua Howie, University of California, Davis
+Mark Hughes, Brigham Young University
+Paul Humphreys, University of Virginia
+John Hunter, UC Davis
+Mee Seong Im, National Academy of Sciences,United States Military Academy and Army Research Laboratory
+Alexander Ioffe, Professor Emeritus, Technion, Israel
+Nezam Iraniparast, Western Kentucky University
+Ingrid Irmer, ICM SUSTech
+Alan Isaac, American University
+Joshua Isralowitz, University at Albany (SUNY)
+James D Ivers, Eastern Michigan University
+Krishnamurthy Iyer,
+Elham Izadi, UCSD Mathematics
+Ivan Izmestiev, TU Wien
+William Jaco, Oklahoma State University
+Adam Jacob, UC Davis
+Christina Jeffrey,
+Shane Jensen,
+Chad W Jessup,
+Svetlana Jitomirskaya, UC Irvine
+William Johnston, Butler University
+David Joyce, Clark University
+Aaron Kaestner, North Park University
+Jeremy Kahn, Brown University
+Uwe Kaiser, Boise State University
+Effie Kalfagianni, Michigan State University
+Prof. Patanjali Kambhampati, Department of Chemistry, McGill University
+Deepak Kamlesh, DPhil Candidate in Mathematics, University of Oxford, UK
+David Kane, Harvard University
+Todd Kapitula, Calvin University
+Michael Kapovich, Distinguished Professor, University of California, Davis
+Anton Kapustin, California Institute of Technology
+David A. Kareken, Ph.D., Indiana University School of Medicine
+Svetlana Katok, Penn State University
+Eric Katz, The Ohio State University
+Louis H Kauffman, Professor Emeritus of Mathematics, University of Illinois at Chicago
+Linda Keen Prof. Emerita, CUNY Graduate Center
+Julia Kempe, New York University
+Carlos Kenig, University of Chicago
+Shelly S Kennedy, University of Oklahoma
+Steve Kerckhoff, Stanford
+Bruce Kessler, Western Kentucky Uuniversity Mathematics
+Evgeniy Khain, Oakland University
+Parviz Khalili,
+Mizan R. Khan, Professor, Eastern Connecticut State University
+Michael Khanevsky, Technion - Israel's Institute of Technology
+Konstantin Khanin, University of Toronto
+Michael Khasin, SGT Inc.
+Mikhail Khenner, Western Kentucky University
+Boris Khesin, University of Toronto
+Tanya Khovanova, MIT
+Keenan Kidwell, UT Austin
+James Kierstead, Victoria University of Wellington
+Thomas Kindred, University of Nebraska-Lincoln
+Rob Kirby, UC Berkeley
+Alexander Kirillov Jr, Chair, Math department, Stony Brook University
+Sergiu Klainerman, Princeton University
+John R. Klein, Wayne State University
+Dmitry Kleinbock, Acting Chair, Department of Mathematics, Brandeis University
+Alexander Kleshchev, University of Oregon
+E. Allen Knight, Spring Arbor University
+Thomas Koberda, University of Virginia
+Patrice Koehl, UC Davis
+Ilya Kofman, CUNY
+Oleg Kogan, Cal Poly
+Alex Kontorovich, Rutgers University
+Aryeh Kontorovich, Ben-Gurion University, Computer Science
+Vladimir Kontorovich, Department of Economics, Haverford College
+Ann E.K. Kosobud, Ph.D., Indiana University School of Medicine
+David Kraines, Duke University
+Nicolai Krylov, University of Minnesota
+Peter Kuchment, Texas A&M
+Nicholas Kuhn, University of Virginia
+Ramya Kumar,
+Dionne Kunkel, The George Washington University
+Vadym Kurylenko, University of Hamburg
+Alfons Laarman, Leiden University
+Laurent Lafleche, University of Texas at Austin
+Kevin Lamb, University of the Pacific
+Michel L. Lapidus, University of California, Riverside
+Christopher J. Larsen, Worcester Polytechnic Institute
+Kyle Larson, University of Georgia
+Grant H Lathrom, Missouri Southern State University
+Gregory F. Lawler, University of Chicago
+Ruth Lawrence-Naimark, Hebrew University of Jerusalem
+David Layman, York College of Pennsylvania (adjunct)
+Sean Lawton, George Mason University
+Christophe Lecomte, member of the AMS
+Michelle LeMasurier, Hamilton College
+Christopher J Leininger, University of Illinois
+Mark Levi, Penn State
+Nate Levi, University of California Davis
+Genadi Levin, The Hebrew University of Jerusalem
+Michael Levitin, University of Reading
+Yehuda John Levy, University of Glasgow
+Azriel Levy, Hebrew University of Jerusalem
+Erica Li,
+Tao Li, Boston College
+Anthony Licata, Australian National University
+Max Lieblich, University of Washington
+James Lin,
+Nati Linial, The Hebrew University
+Benjamin Linowitz, Oberlin College
+Maria Lioudyno, University of California-Irvine
+Joseph Lipman, Professor emeritus of Mathematics, Purdue University
+Max Lipton, Cornell University
+Alexander Lisyansky, Queens College of CUNY
+Richard Litherland, Professor, Dept of Math, Louisiana State University
+Lance Littlejohn,
+Charles Livingston, Indiana University Bloomington
+D.D. Long, UC Santa Barbara
+Vincent Longo, University of Nebraska-Lincoln
+John Lott, UC-Berkeley
+Rohan Loveland, Whitman College
+Monika Ludwig, TU Wien
+Dan Lynch, Williams College
+Misha Lyubich, Stony Brook University
+Shiqian Ma, UC Davis
+Eric Mack, Philosophy, Tulane University
+Blair F. Madore, SUNY Potsdam
+Francesco Maggi, University of Texas at Austin
+Leonid Leonid Makar-Limanov, Wayne State University
+Peter Makienko, Instituto de Matematicas
+Fyodor Malikov, University of Southern California
+Michael Maller, Queens College CUNY (retired)
+Vladimir Mandelshtam, UC Irvine
+Fedor Manin, UCSB
+Benjamin Mann,
+Christopher Manon, University of Kentucky
+Cy Maor, Hebrew University of Jerusalem
+Raffaele Marcovecchio, Italy
+Luana Maroja, Williams College
+William J. Martin, Worcester Polytechnic Institute
+Andrei Martinez-Finkelshtein, Baylor University
+Howard Masur, University of Chicago
+Jasmin Matz, U Copenhagen
+Ben McCarty, The University of Memphis
+Michael McCooey, Franklin & Marshall College
+Duncan McCoy, Université du Québec à Montréal
+Dusa McDuff, Barnard College
+James McKernan, UCSD
+William H. Meeks III, Professor of Mathematic, UMass Amherst
+Ari Meerson, Galilee Research Institute
+Baruch Meerson, the Hebrew University of Jerusalem
+Rick Mehta, Former Professor, Acadia University, Canada
+Moo Mele, University of Delhi
+Anton Mellit, University of Vienna
+Paul Melvin, Bryn Mawr College
+William W Menasco, University at Buffalo-SUNY
+Dean Menezes, UCLA
+Loïc Merel, IMJ-PRG Université de Paris
+William Messing, School of Mathematics University of Minnesota
+Ina Mette,
+David A. Meyer, UC San Diego
+Nicholas Meyer, University of Nebraska — Lincoln
+Juan Migliore, University of Notre Dame
+Michael Mihalik, Professor of Mathematics, Vanderbilt University
+Claudia Miller, Syracuse University
+Steven J Miller, Williams College
+Willard Miller, University of Minnesota
+Chris Miller, Ohio State University
+Kenneth C Millett, University of California, Santa Barbara
+Michael Mills, Psychology Department, Loyola Marymount University
+Jan Minac, Western University
+Guido Mislin, Professor Emeritus ETH Zürich
+Dorina Mitrea, Baylor University
+Boris Mityagin, Professor Emeritus, AMS Fellow; Ohio State University
+Boughalem Mohammed, PhD student university Regensburg
+Aydin Mohseni,
+Monica Montano, Case Western Reserve University
+Richard Montgomery, UC Santa Cruz, distinguished professor
+Warren S. Moore, III, Newberry College
+John Morgan, Professor Emeritus, Columbia University
+Prof. Yoav Moriah, Dept of Math, Technion Israel
+Da'Shawn M. Morris, American Soldier
+Evan D. Morris, Prof. Radiology and Biomedical Imaging,Biomedical Engineering, Pyschiatry, Yale University
+Henri Moscovici, Ohio State University
+Jean-Christophe Mourrat, Courant Institute, New York University
+Tomasz S. Mrowka, MIT
+Sujoy Mukherjee, The Ohio State University
+David Mumford, Emeritus Professor, Harvard and Brown Universities
+Julien Murzi, University of Salzburg
+Alexander Nabutovsky, Professor of Mathematics, University of Toronto
+Bruno Nachtergaele, University of California, Davis
+Ramin Naimi, Occidental College
+Fedor Nazarov, Kent State University
+Nikita Nekrasov, Simons Center for Geometry and Physics, Stony Brook University
+Yury Neretin, Pauli Institute, Vienna; Moscow State University
+Walter Neumann, Barnard College, Columbia University
+Andre Neves, University of Chicago
+Eran Nevo, Hebrew University
+Nicholas Nguyen, University of Kentucky
+Dr. Ngoc Nguyen, Western Kentucky University
+Yi Ni, California Institute of Technology
+Dennis Nieman,
+Arjun Nigam,
+Barbara Nimershiem, Franklin & Marshall College
+Leonard J. Nissim, Fordham University (retired)
+João Nogueira, University of Coimbra
+Emily Norton, TU Kaiserslautern
+Jonathan Novak, UC San Diego
+Dmitry Novikov, Weizmann Institute of Science
+Alexei Novikov, Penn State University
+Alan J. Nussbaum, Cornell University
+Kevin O’Bryant, CUNY Staten Island and The Graduate Center
+Serge Ochanine, University of Kentucky
+Crichton Ogle, Ohio State University
+Kasso A Okoudjou, UMD/MIT
+Andrei Okounkov, Columbia University
+Michael Olinick, Middlebury College
+Ebenezer de Oliveira, Ohio State University
+John Oprea, Professor Emeritus, Cleveland State University
+Matthew Osborne, Ohio State University
+Victor Ostrik, University of Oregon
+Valentin Ovsienko, CNRS, France
+Nicholas Owad, Colby College
+Peter Ozsvath, Princeton University
+Peter Y. Paik, Yonsei University
+George Pappas, Michigan State University
+Ziho Park, University of Chicago
+Jason Parsley, Wake Forest University
+Ori Parzanchevski, Hebrew University of Jerusalem
+Yekaterina Pavlova, Palomar College
+Natasa Pavlovic, University of Texas at Austin
+Casey Perin, University of California, Irvine
+Peter Perry, University of Kentucky
+Laura J. Person, State University of New York-Potsdam
+Timothy Perutz, UT Austin
+Yakov Pesin, Penn State University
+Jonathon Peterson, Purdue University
+Ina Petkova, Dartmouth College
+Yehuda Pinchover, Technion – Israel Institute of Technology
+Ross G. Pinsky, Department of Mathematics, Technion-Israel Institute of Technology
+Daria Poliakova, Copenhagen University
+Carl Pomerance, Dartmouth College Emeritus
+Wai Yan Pong, CSU Dominguez Hills
+Sorin Popa, UCLA
+Serguei Popov, University of Campinas
+Erik Postma, Maplesoft
+Benedikt Pötscher, University of Vienna
+Leonid Potyagailo, University of Lille, France
+Filip Pramenković, Univerza na Primorskem
+Adam Prenosil, Department of Mathematics, Vanderbilt University
+Kenneth Price, University of Wisconsin Oshkosh
+Marina Prokhorova, Technion - Israel Institute of Technology
+Jozef H. Przytycki, George Washington University
+Elbridge Gerry Puckett, Full Professor, Department of Mathematics, UC Davis
+Joshua Pughe-Sanford, Georgia Tech
+Jonathan Pyle,
+You Qi, University of Virginia
+Stephen Quilley, SERS, University of Waterloo
+Maksym Radziwill, Caltech
+Shawn Rafalski, Fairfield University
+Surjeet Rajendran,
+Zoi Rapti, University of Illinois, Urbana-Champaign
+Alexander Rashkovskii, University of Stavangervanger
+Sarah Dean Rasmussen, University of Cambridge
+Jacob Rasmussen, Cambridge
+John Ratcliffe, Department of Mathematics, Vanderbilt University
+Animesh Ray, Professor, Keck Graduate Institute
+Margaret A. Readdy, University of Kentucky
+Robert Redfield,
+Charles Reichhardt, Los Alamos National Laboratory
+Alan Reid, Rice University
+Ben Reid, Lander University
+Hanna Reisler, Professor of Chemistry, USC
+Kui Ren, Columbia University/University of Texas at Austin
+Nicolai Reshetikhin, University of California, Berkeley
+Vladimir Retakh, Rutgers University
+Ilya Reviakine, University of Washington - Seattle
+Lev Reyzin, Department of Mathematics (MSCS), University of Illinois at Chicago
+Brendon Rhoades, UC San Diego
+Henry Ricardo, City University of New York (Retired)
+Donald Richards, Penn State University
+Tom Richmond, Western Kentucky University
+Bastian Rieck, ETH Zurich
+Hans Riess, University of Pennsylvania
+Timothy Riley, Cornell University
+Igor Rivin, Temple University
+Neil Robertson, Emeritus Professor, Ohio State University
+Altha Rodin, University of Texas at Austin
+Gregory Rodin, Oden Institute, University of Texas at Austin
+Federico Rodriguez Hertz, Penn State
+Casey Rodriguez, Massachusetts Institute of Technology
+Claude Roger, Pr Emeritus, Université de Lyon
+Dan Romik, UC Davis
+Jason Rosenhouse, James Madison University
+Joachim Rosenthal, University of Zurich
+Hugo Rossi, Mathematics, University of Utah
+Paolo Rossi, Università degli Studi di Padova
+Raphael Rouquier, UCLA
+Colin Rourke, Emeritus Professor of Mathematics, University of Warwick
+Lev Rozansky, Professor, Department of Mathematics, University of North Carolina at Chapel Hill
+Daniel Ruberman, Brandeis University
+Volodya Rubtsov, Université d'Angers (France)
+Mark Rudelson, University of Michigan
+Lee Rudolph, Clark University
+Andrey Rukhin,
+David B Rush,
+Lorenzo Sadun, University of Texas at Austin
+Gershon Sageev, UB math. dept.
+Abhishek Saha, Reader in Mathematics at Queen Mary University of London
+Masahico Saito, USF
+Yiannis Sakellaridis, Johns Hopkins University
+Michael Saks, Rutgers University
+Andrew Salmon, MIT
+Philip Carl Salzman, Emeritus Professor of Anthropology, McGill University
+Wendy Sandler, University of Haifa
+Mark Sapir, Vanderbilt University
+Martin Scharlemann, University of California at Santa Barbara
+B. Schaum, USF
+Michael Schein, Bar-Ilan University
+Hal Schenck, Department of Mathematics, Auburn University
+Wilfried Schmid, Harvard University
+Ulrike Schneider, TU Vienna
+Jennifer Schultens, UC-Davis
+Peter Schumer, Middlebury College
+Richard Schwartz, Chancellor's Professor of Mathematics, Brown University
+Albert Schwarz, UC Davis, emeritus, AMS Fellow
+Peter Scott, University of Michigan
+Zlil Sela, Hebrew University
+Marjorie Senechal, Smith College
+Ambar Sengupta, University of Connecticut
+Illya Serdyuk,
+Vera Serganova, UC Berkeley
+Brigitte Servatius, WPI
+Cheri Shakiban, University of St. Thomas
+Xuancheng Shao, University of Kentucky
+Uri Shapira,
+Daniel Shapiro, Ohio State University
+Dmitry Shemetov, UCDavis Graduate Student
+Zhongwei Shen, University of Kentucky
+Vivek Shende, UC Berkeley
+Malcolm Sherman, UAlbany, SUNY
+Theodore James Sherman, Professor of English, Middle Tennessee State University
+Mikhail Shifman, University of Minnesota
+Evgeny Shinder, University of Sheffield
+Aleksander Shmakov, University of Georgia
+Tatiana Shubin, San Jose State University
+Adam Sikora, SUNY Buffalo
+Daniel Silver, University of South Alabama
+Jim Simons, Simons Foundation
+Howard Skogman, SUNY Brockport
+Theodore Slaman, University of California Berkeley
+Nat Smale, Math Department, University of Utah
+Stephen Smale, math (emeritus) Univ of Calif. Berkeley
+Roxana Smarandache,
+David C. Smith, Williams College
+Michael Smith, UC Berkeley
+Bert Frank Smits,
+Matthew Snyder,
+Sergey I Sobolev, retired
+Mikhail Sodin, Tel Aviv University
+Houshang H. Sohrab, Towson University
+Sara A. Solla, Northwestern University
+Jake Solomon, Hebrew University
+Ronald Solomon, Professor Emeritus, Ohio State University
+Jack Sonn, Professor Emeritus, Technion-Israel Institute of Technology
+Jenya Soprunova, Kent State University
+Alexander Soshnikov, UC Davis Mathematics Department
+Kannan Soundararajan, Stanford University
+Steven Sperber, University of Minnesota, School of Mathematics
+Andrew Staats,
+Gigliola Staffilano, MIT
+Joseph Stahl, UC Berkeley
+Alina Stancu, Concordia University
+Michael Stay, CTO, Pyrofex Corp.
+Joseph Steinberg, University of Toronto
+Ronald J. Stern, Prof and Dean Emeritus UC Irvine
+Thomas Strohmer, University of California, Davis
+Walter Stromquist, Bryn Mawr College
+Professor Jeffrey Stuart, Pacific Lutheran University
+Benny Sudakov, Professor, ETH Zurich
+John Sullivan, AMS Fellow, TU Berlin
+Mikael Sundqvist, Lund University, Sweden
+Frank Swenton, Middlebury College
+Sergei Tabachnikov, Penn State
+Thibaud Taillefumier, UT Austin
+Ramin Takloo-Bighash, University of Illinois at Chicago
+David Talcott, The King's College (NY)
+Julie Tannenbaum, Pomona College
+Terence Tao, UCLA
+Clifford Henry Taubes, Department of Mathematics, Harvard University
+Laurence R. Taylor, University of Notre Dame
+Scott Taylor, Colby College
+Michael Temkin, Chair, Department of Mathematics, Hebrew University
+Ivo Terek, Ohio State University
+Morwen Thistlethwaite, University of Tennessee-Knoxville
+Lola Thompson, Max Planck Institute and Oberlin College
+Frank J. Tipler, Professor of Mathematics, Tulane University
+Antonino Travia, student at the University of South Florida
+Lisa Traynor, Bryn Mawr College
+Nancy S True, Professor Emerita, UC Davis
+Bena Tshishiku, Brown University
+Anastasiia Tsvietkova, Rutgers University, Newark
+Henry Tucker, UC Riverside
+Alexander Tumanov, Professor, University of Illinois
+Alexander Turbiner, AMS member and APS Fellow, National University of Mexico
+Victor Turchin, Kansas State University
+Ilya Tyomkin, Ben-Gurion University of the Negev
+Nikos Tzirakis, University of Illinois at Urbana-Champaign
+John Urschel, MIT
+Alek Vainshtein, University of Haifa
+Ravi Vakil, Stanford University
+Lou van den Dries, University of Illinois at Champaign-Urbana
+Allan van Hulst, Max Planck Institute, the Netherlands
+Donald Vandegrift, The College of New Jersey
+Yakov Varshavsky, The Hebrew University of Jerusalem
+Monica Vazirani, UC Davis
+Daniel Velleman, emeritus, Amherst College
+J. David Velleman, Department of Philosophy, NYU
+Akshay Venkatesh, Institute for Advanced Study
+Oleg Viro, Stony Brook University
+Misha Vishik, Department of Mathematics, The University of Texas at Austin
+Angelo Vistoli, Scuola Normale Superiore, Italy
+David A. Vogan, Jr. Dept of Mathematics, MIT
+Vladislav Vysotsky, University of Sussex
+Rebecca Wahl, Butler University
+Bronislaw Wajnryb, Rzeszow University of Technology, Poland
+Kevin Walker, MSQ
+Lynne H Walling, University of Bristol (Fellow of the AMS)
+Yi Wang, SUNY Buffalo
+Zhenghan Wang, Microsoft Station Q and UCSB math
+Rachel Ward, UT Austin
+Michael S. Waterman, University of Southern California
+Paul Wedrich, MPIM
+Shmuel Weinberger, University of Chicago
+Steven H. Weintraub, Lehigh University
+Aaron Weiss, mekaz lev acadamy
+Benjamin Weiss, Hebrew Univ. of Jerusalem
+Hans Wenzl, UC San Diego
+Brian White, Stanford University
+Steven R. White, MD, University of Chicago
+Susan G. Williams, University of South Alabama
+Elizabeth Wilmer, Oberlin College
+Peter Winkler, Dartmouth College / National Museum of Mathematics
+Jeff Witmer, Oberlin College
+Curt Wittig, Professor of Chemistry, USC
+Gershon Wolansky, Technion, Haifa Israel
+Helen Wong, Claremont McKenna College
+Mark R. Woodard, Furman University
+Hung-Hsi Wu, Univ. of Cal., Berkeley
+Jared Wunsch, Northwestern University
+Abraham Wyner, UPenn
+Eugene Z. Xia, National Cheng Kung University
+Dongbin Xiu, Ohio State University
+Sergei Yakovenko, Weizmann Institute of Science
+Michael Yampolsky, University of Toronto
+Deane Yang, New York University
+Irina Yaroshevskaya, PhD in Computer Science
+Eylem Zeliha Yildiz, Harvard University
+Alexander Yong, University of Illinois at Urbana-Champaign
+Amanda Young, TU Munich
+Elena Yudovina, PhD, C.H. Robinson
+Svetoslav Zahariev, City University of New York
+Labib Zakaria, Undergraduate Student at Oregon State University
+Yuri Zarhin, Pennsylvania State University
+Vladimir Zbarsky,
+Ng Ze-An, London School of Economics
+Steven Zegas, concerned citizen
+Anton Zeitlin, Louisiana State University
+Ofer Zeitouni, Weizmann Institute
+Shaul Zemel, the Hebrew University of Jerusalem, Israel
+Andrew Zeng,
+Chao Zhang, University of Southern California
+Mengyuan Zhang, UC Berkeley
+Yilong Zhang, Ohio State University
+Zhenghe Zhang, UC Riverside
+Vadim Zharnitsky, University of Illinois
+Zvi Ziegler, Technion, Haifa, Israel
+Ludmil Zikatanov, Penn State
+Gordan Zitkovic, The University of Texas at Austin
+Nahum Zobin, College of William and Mary
+Alex Zupan, University of Nebraska-Lincoln
+Artem Zvavitch, Kent State University
+Peter Zvengrowski, Professor Emeritus, University of Calgary
